@@ -1,0 +1,18 @@
+body {
+    background-color:crimson;
+    text-align: center;
+}
+
+.login_div1,.login_div2 {
+    padding: 10px;
+    float: none;
+    width: 30%;
+    height: 100px;
+}
+
+#player1_name,#player2_name {
+    margin-left: 4.5px; 
+    color: rgb(0, 136, 255);
+    display: inline-block;
+    font-weight: bold;
+}
